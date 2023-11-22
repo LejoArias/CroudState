@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56169307075",
+    "project_id": "croudstate-e370a",
+    "storage_bucket": "croudstate-e370a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56169307075:android:1ba8b0747613dc0384fb76",
+        "android_client_info": {
+          "package_name": "com.example.croudstate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20LBU7uddngtxggb6CZ1ICFO85rxYKnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
